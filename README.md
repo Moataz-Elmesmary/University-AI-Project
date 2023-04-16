@@ -1,6 +1,6 @@
-# Genomics Project (Diabetes Prediction)
+# AI Project (Diabetes Prediction)
  
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#-Contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#-Contributors-)
 <img src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 
 ## Diabetes Prediction :arrow_down_small:
@@ -9,12 +9,25 @@ We Present a Web App depends on Machine Learning for quickly and accurately diag
 As we know, ML can help people make a preliminary judgement about diabetes mellitus according to their daily physical examination data and it can serve as a reference for doctors.<br>
 Also, our site provides some important information about the disease and its symptoms.:memo:
 
+## 🛠 TOOLS AND SOFTWARE RESOURCES:
+-	Kaggle (for the dataset)
+-	Python libraries like (pandas, numpy, pickle, sklearn,.. and more to add according to the project.
+-	Random Forest Algorithm
+- Anaconda(Jupyter) for working with data visually, Visual Studio(Web App + Flask for deployment), Phpstorm and pycharm.
+
+<details><summary> <h3>:bulb: Why Random Forest? (:file_folder:Click)</h3>
+</summary>
+<br>
+  
+- Random Forest gave us an accuracy of 78.8% on the test data.
+- Random Forst was better than logistic regression. Also, it was better than the single dicision tree. 
+- Random Forest not only showed us alot of importance to the Glocuse Feature, but it also chooses BMI to be the 2nd most informative feature overall.
+
+
+</details>
+
 ## :pushpin: [The Web App](https://thaba7o-production.herokuapp.com/)<br>
 ![ezgif-1-527aeaaad2](https://user-images.githubusercontent.com/92026137/167228981-d9b6a6b5-3eff-40bb-9bf8-ab6f899ff914.gif)
-
-
-  
-</details>
 
 ## Contributors 👤
 
