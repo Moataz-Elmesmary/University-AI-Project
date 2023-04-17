@@ -34,8 +34,9 @@ The project is explained there. Just raise up the voice and feel free to use Eng
 <details><summary> <h3>Check the video description (:file_folder:Click)</h3>
 </summary>
 <br>
-<img src="![Captur--e](https://user-images.githubusercontent.com/92026137/232603039-6ec5b690-e9a3-420d-b2f9-6b5b137746f5.PNG)" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/92026137/232604414-748c798c-ef44-49fe-a9b3-a86fda8bfe5b.PNG" width="400" height="500">
   
+
 </details>
 
 ## Contributors 👤
