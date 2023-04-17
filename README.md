@@ -29,6 +29,15 @@ Also, our site provides some important information about the disease and its sym
 ## :pushpin: [The Web App](https://genomics.ddns.net)<br>
 ![ezgif-1-527aeaaad2](https://user-images.githubusercontent.com/92026137/167228981-d9b6a6b5-3eff-40bb-9bf8-ab6f899ff914.gif)
 
+## :pushpin: [The Video :video_camera:](https://youtu.be/CUFyqW4VtYA)<br> 
+The project is explained there. Just raise up the voice and feel free to use English subtitles (Translation) :heavy_check_mark:<br>
+<details><summary> <h3>Check the video description (:file_folder:Click)</h3>
+</summary>
+<br>
+<img src="![Captur--e](https://user-images.githubusercontent.com/92026137/232603039-6ec5b690-e9a3-420d-b2f9-6b5b137746f5.PNG)" width="400" height="500">
+  
+</details>
+
 ## Contributors 👤
 
 <table>
