@@ -26,7 +26,7 @@ Also, our site provides some important information about the disease and its sym
 
 </details>
 
-## :pushpin: [The Web App](https://thaba7o-production.herokuapp.com/)<br>
+## :pushpin: [The Web App](https://genomics.ddns.net)<br>
 ![ezgif-1-527aeaaad2](https://user-images.githubusercontent.com/92026137/167228981-d9b6a6b5-3eff-40bb-9bf8-ab6f899ff914.gif)
 
 ## Contributors 👤
