@@ -13,7 +13,7 @@ Also, our site provides some important information about the disease and its sym
 -	Kaggle (for the dataset)
 -	Python libraries like (pandas, numpy, pickle, sklearn,.. and more to add according to the project.
 -	Random Forest Algorithm
-- Anaconda(Jupyter) for working with data visually, Visual Studio(Web App + Flask for deployment), Phpstorm and pycharm.
+- Anaconda(Jupyter) for working with data, Visual Studio(Web App + Flask for deployment), Phpstorm and pycharm.
 
 <details><summary> <h3>:bulb: Why Random Forest? (:file_folder:Click)</h3>
 </summary>
